@@ -11,9 +11,9 @@
 - 🆕 Trang sách mới phát hành (New Releases)
 - 🛒 Trang giỏ hàng, thanh toán đơn giản
 - 🔐 Đăng nhập và đăng ký tài khoản người dùng
-- 👤 **Đăng nhập tài khoản dành riêng cho quản trị viên (Admin Login)**
+- 👤 Đăng nhập tài khoản dành riêng cho quản trị viên (Admin Login)
 - 📋 Giao diện admin đơn giản (HTML tĩnh)
-- 📱 Giao diện hiện đại, responsive với **Bootstrap 5**
+- 📱 Giao diện hiện đại, responsive với Bootstrap 5
 
 ## 🔐 Đăng nhập Admin
 
